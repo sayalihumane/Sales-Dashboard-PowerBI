@@ -13,4 +13,4 @@ This project analyzes sales, profit, and performance trends using Power BI.
 - Excel
 
 ## Dashboard Preview
-(Add screenshot here)
+![Dashboard](sales-dashboard.png)
